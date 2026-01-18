@@ -2,7 +2,7 @@
 
 ## Candidate
 - Name: Netsanet Melese
-- Approximate time spent: 
+- Approximate time spent: 60 min
 
 ---
 
